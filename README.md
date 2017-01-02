@@ -19,3 +19,7 @@ create table lecture(
       "22.12.2016-19:15",
       "22.12.2016-21:15",
       204);
+
+
+ДОМ ЗАДАНИЕ ( ОБРАЩЕНИЕ К ТАБЛИЦЕ С ЗАПРОСОМ ДАТЫ НАЧАЛА И ДАТЫ КОНЦА)
+SELECT * from student where startime AND endtime ; 
