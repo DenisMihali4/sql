@@ -21,5 +21,5 @@ create table lecture(
       204);
 
 
-ДОМ ЗАДАНИЕ ( ОБРАЩЕНИЕ К ТАБЛИЦЕ С ЗАПРОСОМ ДАТЫ НАЧАЛА И ДАТЫ КОНЦА)
-SELECT * from student where startime AND endtime ; 
+ДОМ ЗАДАНИЕ ( ОБРАЩЕНИЕ К ТАБЛИЦЕ С ЗАПРОСОМ ДАТЫ НАЧАЛА И ДАТЫ КОНЦА) 
+SELECT startime,endtime from student; 
