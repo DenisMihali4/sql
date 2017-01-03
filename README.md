@@ -1,6 +1,7 @@
 # sql
 СОЗДАЕМ БАЗУ
 create database student;
+
 СОЗДАЕМ ТАБЛИЦУ
 
 create table lecture_1(
